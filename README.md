@@ -72,8 +72,7 @@ _(More projects coming soon 👀)_
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 📧 Email: *(add your email here)*
+- 📧 Email: rockeyrajesh1626@gmail.com
 - 🌐 GitHub: You’re already here 😄
 
 ---
